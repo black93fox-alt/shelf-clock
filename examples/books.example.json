@@ -1,0 +1,17 @@
+{
+  "settings": {"timezone": "America/Chicago", "safe_buffer_days": 7},
+  "author": {"bookbub_features": []},
+  "books": [
+    {"id": "B1", "title": "Example Book One", "format": "ebook", "asin": "B0XXXXXXXX",
+     "release_date": "2026-09-12", "preorder": false,
+     "select": {"enrolled": true, "start": "2026-09-12", "auto_renew": true},
+     "list_price": 4.99, "royalty_plan": 70, "price_changes": [],
+     "promos": [{"type": "free", "start": "2026-10-02", "days": 2}],
+     "bookbub_features": []},
+    {"id": "B2", "title": "Example Book Two (pre-order)", "format": "ebook",
+     "release_date": "2027-03-02", "preorder": true, "first_kdp_title": false,
+     "preorder_created_on_or_after_2026_09_02": true, "manuscript_submitted": false,
+     "select": {"enrolled": true, "auto_renew": true}, "list_price": 3.99},
+    {"id": "B1-PB", "title": "Example Book One (paperback)", "format": "paperback", "release_date": "2026-11-20"}
+  ]
+}

@@ -1,0 +1,100 @@
+Search Help
+ Marketing & Distribution 
+ KDP Select 
+ KDP Select Enrollment 
+ KDP Select Enrollment
+You can enroll and manage your KDP Select participation from your KDP Bookshelf. Learn about KDP Select requirements to enroll in this free 90-day program. 
+ Contents 
+ Requirements 
+ How to enroll 
+ Manage KDP Select enrollment 
+ Check enrollment period 
+ Change automatic renewal settings 
+ Cancel KDP Select 
+Requirements 
+You can enroll your eligible Kindle eBooks and audiobooks in KDP. You can also enroll pre-order Kindle eBooks only. 
+Kindle eBook 
+To be eligible for KDP Select enrollment: 
+You must have exclusive rights for the primary content of the Kindle eBook. Content that is public domain is not eligible. 
+Your Kindle eBook must also be exclusive to the Kindle Store for the KDP Select enrollment period 
+During the 90-day enrollment period, the Kindle eBook can only be distributed through KDP and public libraries. However, you can continue to distribute print, video, or other formats of your title elsewhere. 
+Audiobook with virtual voice 
+To be eligible for KDP Select enrollment: 
+The associated eBook must be enrolled in KDP Select 
+ACX audiobook 
+To be eligible for KDP Select enrollment: 
+You must have exclusive Audible distribution rights 
+Your audiobook has a Pay for Production model (non-royalty share payment models not eligible at this time) 
+Read & Listen (also known as Whispersync for Voice) must be enabled 
+The associated eBook must be enrolled in KDP Select 
+For additional details about eligibility requirements, visit ACX audiobooks for KDP Select . ACX audiobooks are not eligible to be distributed through public libraries at this time. 
+ Note: Enrolling your ACX audiobooks in KDP Select will not add any additional KDP exclusivity requirements to your audiobook. Your existing ACX distribution terms remain unchanged. 
+How to enroll 
+You can enroll your Kindle eBook or audiobooks in KDP Select from your KDP Bookshelf, or through the Marketing page. 
+Enrolling a draft Kindle eBook in KDP Select 
+Go to your KDP Bookshelf . 
+Click the ellipsis button ("…") next to the eBook you want to enroll. 
+From the drop-down, click Enroll in KDP Select . A pop-up will appear. 
+In the pop-up, click Enroll . 
+Enrolling a published Kindle eBook in KDP Select 
+Go to the Marketing page. 
+Select Enroll in KDP Select . A pop-up will appear. 
+In the pop-up, search and select a book you want to enroll in KDP Select 
+Click Continue . 
+Select Enroll to confirm enrollment. 
+Enrolling an audiobook with virtual voice in KDP Select 
+If your eBook is enrolled in KDP Select, the associated audiobook will also be enrolled in KDP Select and automatically included in Kindle+. 
+Enrolling ACX audiobooks in KDP Select 
+Visit ACX audiobooks for KDP Select to learn more about ACX eligibility requirements. 
+For your eligible ACX titles: 
+Go to your KDP Bookshelf . 
+Click Enroll audiobook in KDP Select next to the ACX audiobook you want to enroll. 
+In the pop-up, click Enroll audiobook . 
+You can change your Kindle book details (royalty options and book descriptions) without affecting your KDP Select enrollment. 
+You can also unpublish KDP Select-enrolled titles at any time during the term and republish them on KDP later. This will pause your KDP Select enrollment period until you republish your book. After you choose to republish your title, your KDP Select enrollment period will resume. 
+Your Kindle eBook and audiobook with virtual voice must remain exclusive through the remainder of the title's current 90-day participation period. Enrolling your ACX audiobooks in KDP Select will not add any additional KDP exclusivity requirements to your audiobook. Your existing ACX distribution terms remain unchanged. 
+Manage KDP Select enrollment 
+After enrolling in KDP Select, you can manage your KDP Select enrollment at any time from your KDP Bookshelf or from the Marketing page. You can check the enrollment period, change your automatic renewal settings, or cancel your KDP Select enrollment. 
+Check enrollment period 
+ To check for all book formats: 
+Go to Marketing . 
+Select Manage enrollment . 
+On the screen, you will see the start and end date of your KDP Select enrollment period. 
+ To check for Kindle eBook and audiobook with virtual voice: 
+Go to your KDP Bookshelf . 
+Click the ellipsis button ("…") next to the Kindle eBook you want to manage. 
+Choose Manage KDP Select . 
+On the screen, you will see the start and end date of your KDP Select enrollment period. 
+ To check for ACX audiobook: 
+Go to your KDP Bookshelf . 
+Find the ACX audiobook you want to manage. 
+Choose Manage KDP Select enrollment . 
+On the screen, you will see the start and end date of your KDP Select enrollment period. 
+Change automatic renewal settings 
+For your convenience, every Kindle eBook and audiobook enrolled in KDP Select is automatically renewed unless you turn off automatic renewal. Changes made to your KDP Select settings do not affect the eBook or audiobook's KDP Select enrollment for the existing enrollment period. 
+If you turn off automatic renewal of your Kindle eBook from KDP Select, your audiobook with virtual voice will be removed from Kindle+ and Audible Plus. Your ACX audiobook may become ineligible for KDP Select enrollment. 
+ To turn off automatic renewal for Kindle eBook and audiobook with virtual voice: 
+Go to your KDP Bookshelf . 
+Click the ellipsis button ("…") next to the book you want to manage. 
+Choose Manage KDP Select . 
+On the screen, you'll see the start and end dates of your current enrollment period. 
+Choose Turn off automatic renewal .
+ Note: If you change the enrollment of an eBook with associated audiobook, at the end of the enrollment period, your audiobook with virtual voice will be removed from Kindle+ and Audible Plus, and your ACX audiobook will become ineligible for KDP Select. 
+Click Save changes to confirm selection. 
+ To turn off automatic renewal for ACX audiobook: 
+Go to your KDP Bookshelf . 
+Click the ellipsis button ("…") next to the book you want to manage. 
+Choose Manage KDP Select . 
+On the screen, you'll see the start and end dates of your current enrollment period. 
+Choose Renew eBook only or Turn off automatic renewal for all formats . 
+Click Save changes to confirm selection. 
+Cancel KDP Select 
+After your Kindle eBook or audiobook is enrolled in KDP Select, you have three days from the start of your enrollment period to cancel your enrollment. 
+ Note: If you enroll a pre-order Kindle eBook in KDP Select, your enrollment can't be cancelled until the pre-order Kindle eBook is released. 
+To cancel your KDP Select enrollment: 
+Go to Marketing . 
+Select Cancel enrollment or Cancel audiobook enrollment (ACX only). 
+On the screen, follow the prompts to review your cancellation options. 
+Click Cancel enrollment to confirm selection. 
+After cancelling your KDP Select enrollment, your books will be removed from Kindle+ within several hours. If you have an audiobook with virtual voice, your audiobook will be removed from Kindle+ and Audible Plus. 
+ 

@@ -1,0 +1,51 @@
+Search Help
+ Marketing & Distribution 
+ KDP Select 
+ KDP Select Benefits 
+ Free Book Promotions 
+ Free Book Promotions
+A Free Book Promotion allows you to attract new readers and widen your audience. You can offer your Kindle eBook for free for up to 5 days out of each 90-day KDP Select enrollment period. Free Book Promotions are for Kindle eBooks only and are available in all KDP marketplaces. 
+Contents 
+ Scheduling a Free Book Promotion 
+ When can I schedule my Free Book Promotion? 
+ Confirm your Free Book Promotion is running as expected
+ Cancel a Free Book Promotion 
+ Royalties 
+ Sales rank 
+1. Scheduling a Free Book Promotion 
+You can schedule a Free Book Promotion after your Kindle eBook is enrolled in KDP Select and available for sale on Amazon. To schedule a Free Book Promotion, follow the steps below:
+Go to the Marketing tab. 
+In the Run a Price Promotion, select Free Book Promotion . 
+Click Create a Free Book Promotion . 
+Select your book and click Continue . 
+Enter the desired start and end date. Avoid ending on the final day of your KDP Select term.
+Click Save Changes . 
+You can schedule one or more Free Book Promotions, edit or delete a scheduled Free Book Promotion, or stop an ongoing Free Book Promotion. 
+2. When can I schedule my Free Book Promotion? 
+You have options for running your Free Book Promotion for the 5 days:
+Run all 5 days at once
+Go one day at a time
+Offer your eBook for free for multiple days in a row
+Free Book Promotions must be scheduled at least one day before your desired start date. The earliest possible date to begin your Free Book Promotion is the second day of your KDP Select enrollment period. The scheduled start and end dates are usually midnight Pacific time. 
+For example, if your new KDP Select enrollment period starts on January 1, the earliest date you can schedule your Free Book Promotion is January 2. If you enter a start date of January 2 and an end date of January 7, your deal will start at midnight on January 2. It will continue for five days (January 2, 3, 4, 5 and 6) and end at midnight on January 7. 
+We're unable to schedule a Free Book Promotion for future KDP Select enrollment periods. Unused Free Book Promotion days won’t rollover from one enrollment period to another. Once the new enrollment period begins, you can schedule a Free Book Promotion. See our Help page for details on timelines .
+3. Confirm your Free Book Promotion is running as expected 
+To confirm your Free Book Promotion details: 
+Go to your Bookshelf . 
+Next to the Kindle eBook running the Free Book Promotion, click Promote and advertise . 
+The details for your Free Book Promotion will display under the Promotions for this book section. 
+4. Cancel a Free Book Promotion 
+To stop an ongoing promotion:
+Go to your Bookshelf . 
+Next to the Kindle eBook running the Free Book Promotion, click Promote and advertise 
+Go to the Promotions for this book section. 
+On the days you want to cancel, click Edit/Delete .
+It can take up to several hours for the cancellation to take effect. You can reschedule any fully, unused promotional days after you cancel a Free Book Promotion. Any Free Book Promotion day canceled, while in progress, won't be credited back to your account. 
+5. Royalties 
+Because your Kindle eBook is available for free during a Free Book Promotion, you won't receive royalties for it while the Free Book Promotion runs. 
+6. Sales rank 
+In the Kindle Store, the Best Sellers Rank is divided into Paid and Free lists. While your Kindle eBook is offered for free, it will have a Sales Rank in the Free list. Once your Free Book Promotion is complete, your Kindle eBook will enter the Paid list. 
+It can take up to 24 hours for Kindle eBooks to transition between the Free and Paid lists before and after promotional periods. In some cases, the transition may take longer due to system latencies. Since the start and end times are based on midnight Pacific time, the exact time your Kindle eBook reflects a free or paid Sales Rank will vary depending on the time zone. For example, customers in time zones other than Pacific time may not see Kindle eBooks reflected in the Free list until the following day, depending on local time. 
+The Amazon Best Sellers calculation is based on Amazon.com sales. It is updated at least once per day, but changes may take up to 2 days to appear, to reflect recent and historical sales of every item sold on Amazon.com. Your Kindle eBook will drop in Sales Rank in the Paid list during your Free Book Promotion. However, since Sales Rank takes previous sales into account, as well as recent sales, your previous paid rank will influence your new rank when your Kindle eBook enters the paid categories. 
+Books Best Sellers lists only rank Top 100 Paid (unlike the Kindle Store which is divided into Top 100 Paid and Top 100 Free), Free Book Promotions do not count towards the ranking in Paid lists. Learn more about Amazon Best Sellers Rank . 
+ 

@@ -1,0 +1,57 @@
+Search Help
+ KDP Publishing 
+ Create a Book 
+ Book Detail Resources 
+ Kindle eBook Pre-Order 
+ Kindle eBook Pre-Order
+Pre-orders let you list your Kindle eBook on Amazon before your release date. Customers can place orders in advance, and they'll receive the book on the release date. Pre-orders contribute toward sales rank and Kindle Store merchandising before your release, helping readers discover your eBook through channels like Author Central, Goodreads, and your personal website. This page covers how pre-orders work, what you can change, and what happens if you miss a deadline. 
+How pre-orders work 
+When you set up a pre-order, your book's product detail page goes live. Customers can place orders at any time before the release date. 
+Pre-orders are available for eBooks only (not paperbacks or hardcovers).
+If you publish a paperback or hardcover of the same book, it's a separate edition with its own release schedule. Changes to your eBook pre-order, including canceling it, don't affect your print book edition. Your editions may appear together on the same detail page after both are live. 
+You can set a release date up to:
+18 months in the future (pre-orders created on or after September 2, 2026) 
+12 months in the future (pre-orders created before September 2, 2026) 
+Pre-orders are available in all Amazon marketplaces. 
+Your book's product detail page will display a 'Pre-order' button instead of 'Buy now.' To understand what each status means on your Bookshelf, visit Pre-order statuses . 
+If this is the first title you are publishing on KDP, your pre-order works differently:
+Your release date must be at least 5 days from today. 
+You must upload your manuscript at the time of pre-order submission. 
+You must submit your final manuscript at least 5 days before your release date. 
+Eligibility 
+Pre-orders are available for new eBook titles only. You can have up to 10 active pre-order titles at a time. After a book is released, you can set up additional pre-orders. Public domain eBooks aren't eligible for pre-order. 
+ Note: For paperbacks, you can't set up a pre-order, but you can schedule a release date . 
+Reading samples 
+If you upload a manuscript when you submit your pre-order, readers may be able to preview a sample of your book. Low-content books without an ISBN won't display a reading sample. Learn more about Read Sample . 
+Submission deadline 
+You need to upload and submit your final manuscript at least 72 hours before your release date. If this is the first title you are publishing on KDP, you must upload and submit a manuscript at the time of pre-order submission and submit your final version at least 5 days before your release date. If you don't submit your file by the deadline: 
+Your pre-order will be canceled. 
+Customers who pre-ordered will be notified and their orders will be canceled. 
+Your pre-order privileges may be removed. 
+What you can change 
+You can update the following before your submission deadline (72 hours before release, or 5 days before release if this is the first title you are publishing on KDP). 
+Book details (title, description, categories, keywords) 
+Manuscript file 
+Cover image 
+You can change your list price at any time before and after the review period. If you reduce the price, customers who already pre-ordered will be charged the lower price. 
+After you submit your final manuscript 
+After you submit your final manuscript, you won't be able to make changes for up to 72 hours while your eBook is reviewed. If this is the first title you are publishing on KDP, this review can take up to 5 days. 
+After the review is complete, you can update your manuscript or book details again. 
+Changing your release date 
+ Moving up: You can move up your release date as long as your final manuscript has been submitted and reviewed. 
+ Postponing: You can postpone your release date. The window and number of postponements allowed depends on when your pre-order was created. For details, visit Change your pre-order release date . 
+Pre-order privileges 
+If you miss your submission deadline or cancel a pre-order, it may affect your ability to create future pre-orders. 
+ First missed deadline or cancellation: Your pre-order privileges won't be removed. This is a one-time account-level courtesy. 
+ Second missed deadline or cancellation: Your pre-order privileges will be removed for 6 months across your entire catalog. During this time, you won't be able to create new pre-orders or postpone existing pre-orders. Your privileges will be restored automatically after 6 months. If your pre-order privileges were removed before September 2, 2026, your original penalty period of one year still applies. 
+ Postponement limits depend on when your pre-order was created. If you exceed your postponement limit, your pre-order may be auto-canceled, which counts toward your cancellation history above. For details, visit Postpone or cancel your pre-order release . 
+If your pre-order was created before September 2, 2026, different postponement limits apply. For details, visit Postpone or cancel your pre-order release . 
+KDP Select and pre-orders 
+You can enroll your pre-order eBook in KDP Select . The KDP Select enrollment term begins on your eBook's release date. You can only schedule Free Book Promotions and Kindle Countdown Deals after your book is released. Kindle Countdown Deals can only be run on the Amazon.com and Amazon.co.uk marketplaces. It is not available on Amazon.co.jp. 
+Related articles 
+ Postpone or cancel a pre-order release 
+ Change your pre-order release 
+ Setting up pre-orders 
+ Pre-order statuses 
+ Pre-order pricing and sales reports 
+ 

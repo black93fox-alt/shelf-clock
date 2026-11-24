@@ -1,0 +1,81 @@
+Search Help
+ Marketing & Distribution 
+ KDP Select 
+ KDP Select Benefits 
+ Kindle Countdown Deals 
+ Kindle Countdown Deals
+Kindle Countdown Deals (KCD) allows authors to run limited-time discounts only for Kindle eBooks on Amazon.com and Amazon.co.uk
+Customers will see the regular price and the promotional price on the Kindle eBook's detail page. They will also see the countdown clock. This clock shows how much time is left to purchase the Kindle eBook at the promotional price. You will earn the selected royalty rate on each sale during the promotion.
+ Note: If you're located in a territory not supported to purchase from Amazon.com or Amazon.co.uk, you may not see your Kindle Countdown Deals (KCD) promotion listed on your Kindle eBook's detail page. This promotion can only be viewed by customers who can purchase from Amazon.com or Amazon.co.uk.
+Contents 
+ 1. Benefits of Kindle Countdown Deals (KCD) 
+ 2. Eligibility requirements 
+ 3. Add a Kindle Countdown Deal (KCD) 
+ 4. Change or cancel your Kindle Countdown Deal (KCD) 
+ 5. Confirm your Kindle Countdown (KCD) is running as expected 
+ 6. Royalties and reports 
+1. Benefits of Kindle Countdown Deals (KCD) 
+ Time-based promotions showing the time remaining for the promotion to increase excitement for the price discount. 
+Shows original and discounted digital list price so it's easy for customers to see the great deal they're getting. 
+ Royalty rate is retained at lower prices. You will earn royalties based on your regular royalty rate and the promotional digital list price. If you have selected the 70% royalty option, you'll earn 70% even if the price is below $2.99. (As per the KDP Pricing Page , regular delivery costs apply.) 
+ You can monitor performance in real time. Your KDP report will display sales and royalties at each digital list price you set during the promotional period side-by-side with pre-promotion performance.e. 
+2. Eligibility requirements 
+You can only add Kindle Countdown Deals (KCD) for Kindle eBook listings on Amazon.com and Amazon.co.uk k marketplaces . 
+Title has been enrolled in KDP Select for at least 30 days . 
+ Digital list price of eligible titles for Kindle Countdown Deals (KCD) should fall within these limits:
+$2.99 - $24.99 (Amazon.com) 
+£1.99 – £15.99 (Amazon.co.uk, including VAT) 
+Digital list price is unchanged for 30 days before and 14 days after your Kindle Countdown Deal runs.
+Maximum number of price increments is 5. 
+Minimum decrease in the digital list price:
+$1.00 USD on Amazon.com 
+£1.00 on Amazon.co.uk. 
+The duration of a Kindle Countdown Deal (KCD) is:
+Maximum: 7 days. 
+Minimum duration is 1 hour. 
+Duration you choose will run as a single promotion (you cannot split into multiple durations).
+Kindle Countdown Deals (KCD) must be scheduled 24 hours before your desired start date, as far in advance as you want. For example, to begin a promotion on January 10, you can schedule it any time before January 8. 
+You can run either a Free Book Promotion or a Kindle Countdown Deal (KCD) during the 90-day KDP Select enrollment period. Only one type of promotion can be used during the KDP Select enrollment period. 
+Kindle Countdown Deals are limited to one per KDP Select term. 
+The latest end time for your Kindle Countdown Deals (KCD) promotion is 14 days before your KDP Select enrollment period ends. If you renew your Kindle eBook in KDP Select for another consecutive 90-day period, the latest end time can fall on the last day of the KDP Select period.
+ Note: The Kindle eBook format of your title must be exclusive to Amazon during the entire enrollment period. However, you can continue to distribute print, video, audio, or other formats of your title elsewhere. When it is determined that a Kindle eBook is not exclusive to Amazon, any scheduled Kindle Countdown Deals (KCD) are cancelled.
+3. Add a Kindle Countdown Deal (KCD) 
+To add your Kindle Countdown Deal (KCD):
+Go to the Marketing tab. 
+In the Run a Price Promotion, select Kindle Countdown Deals . 
+Click Create a Kindle Countdown Deal . 
+Select your eBook and click Continue . 
+Enter the marketplace, date and time, number of Digital List Price increments, and starting Digital List Price. The default marketplace is set to Amazon.com. Click Continue . 
+A table will appear. Edit it as needed, to make sure it's how you want the Kindle Countdown Deal (KCD) to run (price increments and start times). 
+Click Add Promotion . 
+Once you add your Kindle Countdown Deal (KCD), it will appear in the Promotions for this book section 
+ Important: The Kindle Countdown Deal (KCD) is based on the time zone of the marketplace the Kindle Countdown (KCD) is set. For example, a Kindle Countdown Deal (KCD) in Amazon.com is set in the Pacific time zone. A Kindle Countdown Deal (KCD) in Amazon.co.uk is set in the local time zone (GMT). 
+4. Change or cancel Kindle Countdown (KCD) 
+Once a Kindle Countdown Deal (KCD) is scheduled, it can’t be edited or canceled within 24 hours before it begins or its duration. It will finish according to the schedule you originally set for it. This is to ensure a positive experience for customers, especially those who notice the promotion has started, but have not made a purchase yet. 
+Also, to ensure the most compelling value for buying customers, we require that Kindle eBooks offered through Kindle Countdown Deal (KCD) promotions stay at a stable price when a promotion is coming up or has recently ended. To help us achieve this, your digital list price cannot be changed for 30 days before and 14 days after the promotion runs. 
+5. Confirm your Kindle Countdown Deal (KCD) is running as expected 
+To confirm your Kindle Countdown Deal (KCD) details: 
+Go to your Bookshelf 
+Next to the Kindle eBook running the Kindle Countdown Deal (KCD), click the ellipsis button (“…”) under the Kindle eBook Actions menu.
+Choose Promote and advertise 
+The details for your Kindle Countdown Deal (KCD) will display under the Promotions for this book section. 
+6. Royalties and reports 
+You will earn royalties based on the royalty rate you have selected and the promotional price, as described on the Digital Pricing Page . 
+ 35% royalty plan: 
+35% Royalty Rate x (Promotional List Price – applicable VAT) = Royalty. 
+For example, Your Royalty per sale to a customer whose applicable VAT rate is 20%: 
+0.35 x ($0.99-$0.165) = $0.29 
+Royalty Rate x (List Price – applicable VAT) = Royalty 
+Applicable VAT calculation: 20% x $0.825 = $0.165. $0.825 + $0.165 = $0.99. 
+ 70% royalty plan: 
+70% Royalty Rate x (Promotional List Price – applicable VAT-Delivery Costs) = Royalty. 
+For example, your Royalty per sale to a customer whose applicable VAT rate is 20%: 
+0.70 x ($1.99 - $0.33-$0.15) = $1.06 
+Royalty Rate x (List Price-applicable VAT-Delivery Costs) = Royalty 
+Applicable VAT calculation: 20% x $1.66 = $0.33. $1.66 + $0.33 = $1.99. 
+To view a Kindle Countdown Deal (KCD) report, follow these steps: 
+Go to the Reports Dashboard .
+Click Promotions . 
+Filter by marketplace, titles, and promotion status. 
+You'll can view sales performance and royalties earned at each stage of the Kindle Countdown Deal (KCD). Learn more about the Promotions Report . 
+ 

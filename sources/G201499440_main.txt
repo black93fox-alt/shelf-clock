@@ -1,0 +1,58 @@
+Search Help
+ KDP Publishing 
+ Create a Book 
+ Book Detail Resources 
+ Kindle eBook Pre-Order 
+ Postpone or cancel a pre-order release 
+ Postpone or cancel a pre-order release
+If you need more time to finalize your eBook or want to cancel your pre-order, this page explains your options and what to expect. 
+Postpone your release date 
+You can postpone your pre-order release date. The window depends on when your pre-order was created: 
+ Pre-order created before September 2, 2026: You can postpone one time, up to 30 days past your current release date. 
+ Pre-order created on or after September 2, 2026: You can postpone up to 2 times. Your new release date can't be more than 6 months from your original release date. 
+If you exceed your available postponements (see above), your pre-order will be auto-canceled. This counts as a cancellation toward your account history. 
+To postpone your release date: 
+Go to your Bookshelf . 
+Select the ellipsis button ("…") next to the title. 
+Select "Edit eBook Pricing." 
+Update the release date. 
+Select "Publish." 
+Any update to your release date must be made before your submission deadline (72 hours before release). Customers who pre-ordered your eBook will be notified of the new release date. 
+If you've used your available postponements 
+If you've already postponed the maximum number of times allowed, you can't postpone again. Your options are: 
+Publish by the current release date. 
+Cancel the pre-order and set up a new one with a different release date. 
+If you cancel, this counts toward your account-level cancellation history. See "What happens if you cancel" below. 
+Cancel a pre-order 
+You can cancel a pre-order that's in 'Pre-order Live' status. To cancel: 
+Go to your Bookshelf . 
+Select the ellipsis button ("…") next to the title. 
+Select "Unpublish." 
+Confirm when prompted. 
+After you cancel: 
+Customers who pre-ordered will be notified and their orders will be canceled. 
+You won't be able to use the same ASIN to set up a new pre-order. You'll need to create a new book setup. 
+No further edits can be made to the title. 
+What happens if you cancel 
+Canceling a pre-order (or missing your submission deadline, which results in automatic cancellation) counts toward your account-level cancellation history: 
+ First cancellation or missed deadline: Your pre-order privileges won't be removed. This is a one-time account-level courtesy. 
+ Second cancellation or missed deadline: Your pre-order privileges will be removed for 6 months across your entire catalog. Your privileges will be restored automatically after 6 months. 
+While your privileges are removed, you won't be able to: 
+Create new pre-orders 
+Postpone existing pre-orders 
+You can still publish books without pre-order. 
+If your pre-order privileges are currently removed 
+If your pre-order privileges are removed and you have an existing pre-order with an upcoming release date: 
+You can't postpone the release date. 
+If your manuscript is ready, submit it before the release date to fulfill the pre-order. 
+You can still move up your release date if your manuscript is submitted. 
+If you can't meet the deadline, the pre-order will be canceled and customers will be notified. 
+Your privileges will be restored automatically after 6 months. 
+If your pre-order privileges were removed before September 2, 2026, your original penalty period of one year still applies. 
+Related articles 
+ Kindle eBook Pre-Order 
+ Change your pre-order release date 
+ Setting up pre-orders 
+ Pre-order statuses 
+ Pre-Order pricing and sales reports 
+ 
